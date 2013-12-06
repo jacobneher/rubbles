@@ -22,6 +22,6 @@
     <?php print drupal_render($form); ?>
   </div>
   <div class="links">
-    <div class="left"><a href="/user/login">Back to login</a></div>
+    <div class="center"><a href="/user/login">Back to login</a></div>
   </div>
 </div>

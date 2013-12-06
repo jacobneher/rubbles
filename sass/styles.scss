@@ -5,6 +5,11 @@ body.page-user-login,
 body.page-user-password {
   background: url("../images/bg/diagonal-noise.png") repeat scroll 0 0 #999;
 
+  .new-password {
+    position: relative;
+    top: -55px;
+  }
+
   .form-required {
     display: none;
   }
@@ -30,16 +35,8 @@ body.page-user-password {
     margin-top: 20px;
   }
 
-  .left {
-    float: left;
-  }
-
   .center {
     text-align: center;
-  }
-
-  .right {
-    float: right;
   }
 
   input[type="text"],
