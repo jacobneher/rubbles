@@ -5,7 +5,6 @@
 
   // Remove descriptions.
   $form['name']['#description'] = '';
-  $form['pass']['#description'] = '';
 
   // Change e-mail to e-mail
   $form['name']['#title'] = str_replace('e-mail', 'email', $form['name']['#title']);
@@ -13,6 +12,9 @@
 
   // Add id to color login link
   $form['actions']['submit']['#id'] = 'edit-submit';
+
+  // Add autofocus to name textbox
+  $form['name']['#attributes']['autofocus'] = 'autofocus';
 ?>
 
 <div class="wrapper">

@@ -2,13 +2,15 @@
 
 <?php 
   $form = drupal_get_form('user_login');
-// print "<pre>"; print_r($form); die("</pre>");
   // Remove descriptions.
   $form['name']['#description'] = '';
   $form['pass']['#description'] = '';
 
   // Add id to color login link
   $form['actions']['submit']['#id'] = 'edit-submit';
+
+  // Add autofocus to name textbox
+  $form['name']['#attributes']['autofocus'] = 'autofocus';
 ?>
 
 <div class="wrapper">
