@@ -23,6 +23,5 @@
   </div>
   <div class="links">
     <div class="left"><a href="/user/login">Back to login</a></div>
-    <div class="right"><a href="user/password">Request new password</a></div>
   </div>
 </div>
