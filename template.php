@@ -19,4 +19,3 @@ function rubbles_preprocess_html(&$vars) {
     $vars['head_title'] = 'Request new password for your account at ' . variable_get('site_name');
   }
 }
-
