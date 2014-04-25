@@ -1,28 +1,28 @@
 /* ==========================================================================
    User login page
    ========================================================================== */
-/* line 5, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\000035}}
 body.page-user-login,
 body.page-user-password {
   background: url("../images/bg/diagonal-noise.png") repeat scroll 0 0 #999999;
 }
-/* line 8, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\000038}}
 body.page-user-login .new-password,
 body.page-user-password .new-password {
   position: relative;
   top: -55px;
 }
-/* line 13, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\0000313}}
 body.page-user-login .form-required,
 body.page-user-password .form-required {
   display: none;
 }
-/* line 17, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\0000317}}
 body.page-user-login .form-actions,
 body.page-user-password .form-actions {
   margin-bottom: 0;
 }
-/* line 21, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\0000321}}
 body.page-user-login .wrapper,
 body.page-user-password .wrapper {
   left: 0;
@@ -31,23 +31,23 @@ body.page-user-password .wrapper {
   right: 0;
   margin-top: 120px;
 }
-/* line 29, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\0000329}}
 body.page-user-login .form,
 body.page-user-password .form {
   background-color: #F9F9F9;
   padding: 50px;
 }
-/* line 34, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\0000334}}
 body.page-user-login .links,
 body.page-user-password .links {
   margin-top: 20px;
 }
-/* line 38, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\0000338}}
 body.page-user-login .center,
 body.page-user-password .center {
   text-align: center;
 }
-/* line 43, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\0000343}}
 body.page-user-login input[type="text"],
 body.page-user-login input[type="password"],
 body.page-user-password input[type="text"],
@@ -65,7 +65,7 @@ body.page-user-password input[type="password"] {
   width: 244px;
   /* 250px width inside container - 6px for 3px padding on textboxes */
 }
-/* line 57, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\0000357}}
 body.page-user-login input[type="text"]:hover,
 body.page-user-login input[type="password"]:hover,
 body.page-user-password input[type="text"]:hover,
@@ -73,7 +73,7 @@ body.page-user-password input[type="password"]:hover {
   border-color: #C5C5C5;
   background-color: #FFF;
 }
-/* line 62, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\0000362}}
 body.page-user-login input[type="text"]:focus,
 body.page-user-login input[type="password"]:focus,
 body.page-user-password input[type="text"]:focus,
@@ -81,24 +81,24 @@ body.page-user-password input[type="password"]:focus {
   border-color: #0074BD;
   background-color: #FFF;
 }
-/* line 68, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\0000368}}
 body.page-user-login input[type="submit"],
 body.page-user-password input[type="submit"] {
   margin: 0 !important;
 }
 
-/* line 75, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\0000375}}
 body.page-user-password input[type=text] {
   width: 374px;
   /* 380px width inside container - 6px for 3px padding on textbox */
 }
 
-/* line 82, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\0000382}}
 body.page-user-login .wrapper {
   width: 350px;
 }
 
-/* line 89, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\0000389}}
 body.page-user-password .wrapper {
   width: 480px;
 }
@@ -106,28 +106,20 @@ body.page-user-password .wrapper {
 /* ==========================================================================
    Messages
    ========================================================================== */
-/* line 98, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\0000398}}
 #console {
   z-index: 10000;
   margin: 0;
 }
-/* line 102, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\00003102}}
 #console .messages {
   margin: 0;
-}
-/* line 105, ../sass/styles.scss */
-#console .messages.status {
-  background-color: #7CCF7C;
-}
-/* line 109, ../sass/styles.scss */
-#console .messages.warning {
-  background-color: #E6A645;
 }
 
 /* ==========================================================================
    Pages
    ========================================================================== */
-/* line 122, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\00003114}}
 div#module-filter-squeeze table,
 div#module-filter-squeeze #permissions,
 form#user-admin-permissions table,
@@ -136,64 +128,23 @@ form#user-admin-permissions #permissions {
   margin: 0 auto;
   width: 96%;
 }
-/* line 128, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\00003120}}
 div#module-filter-squeeze #module-filter-show-wrapper,
 form#user-admin-permissions #module-filter-show-wrapper {
   margin-bottom: 20px;
 }
-/* line 132, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\00003124}}
 div#module-filter-squeeze input[type=submit],
 form#user-admin-permissions input[type=submit] {
   margin: 20px !important;
 }
 
-/* line 137, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\00003129}}
 table#permissions {
   margin: 20px auto;
 }
 
-/* line 141, ../sass/styles.scss */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/var\/www\/html\/_internal\/d7\/sites\/all\/themes\/rubbles\/sass\/styles\.scss}line{font-family:\00003133}}
 div#module-filter-squeeze table {
   margin-bottom: 20px;
-}
-
-/* ==========================================================================
-   Dashboard (Homebox module)
-   ========================================================================== */
-/* line 151, ../sass/styles.scss */
-#homebox .homebox-column {
-  background: none;
-}
-/* line 155, ../sass/styles.scss */
-#homebox .homebox-portlet {
-  border-top: 0;
-  border-right: 1px solid #CCC;
-  border-bottom: 1px solid #CCC;
-  border-left: 1px solid #CCC;
-  margin: 0 0 5px 0;
-}
-/* line 162, ../sass/styles.scss */
-#homebox .homebox-portlet:last-child {
-  margin-bottom: 0;
-}
-/* line 166, ../sass/styles.scss */
-#homebox .homebox-portlet .portlet-header {
-  background-color: #0074BD;
-  color: #F9F9F9;
-  font-weight: 600;
-  padding-left: 10px;
-}
-/* line 173, ../sass/styles.scss */
-#homebox .homebox-portlet .homebox-portlet-inner {
-  border: none;
-}
-/* line 178, ../sass/styles.scss */
-#homebox .homebox-placeholder {
-  background-color: #F5F5F5;
-  border: 1px dashed #BBB;
-}
-
-/* line 184, ../sass/styles.scss */
-#homebox-add {
-  overflow: hidden;
 }

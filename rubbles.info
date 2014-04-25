@@ -1,7 +1,16 @@
 name = Rubbles
 description = An admin subtheme of Adminimal.
 base theme = adminimal
-screenshot = screenshot.png
+screenshot = screenshot.jpg
 engine = phptemplate
 core = 7.x
 stylesheets[all][] = css/styles.css
+settings[display_icons_config] = 0
+regions[content_before] = Before Content
+regions[content] = Main page content only
+regions[content_after] = After Content
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+regions[sidebar_first] = First sidebar
+regions_hidden[] = sidebar_first
